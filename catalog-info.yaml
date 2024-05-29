@@ -1,0 +1,9 @@
+
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: repo1850
+spec:
+  type: service
+  lifecycle: production
+  owner: sandip
